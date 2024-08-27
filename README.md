@@ -1,6 +1,6 @@
 # Good day! My name is Angelica Rivas
 
-I'm a Jr Data analysis and engineer 
+I'm a Jr Data analysis
 
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on my thesis 'Obstetric violence in public health institutions in Mexico: a comparative analysis'. Proposed and implemented a survey analysis algorithm based on machine learning and networks.
@@ -16,13 +16,20 @@ I'm a Jr Data analysis and engineer
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/> 
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"/>  
   
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/> 
   
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/> 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=an-rivas&layout=compact&theme=dracula&show_icons=true)](https://github.com/an-rivas)
+</p>
+
+# Education
+<p align="center">
+  <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/> 
 </p>
