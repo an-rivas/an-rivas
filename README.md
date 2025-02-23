@@ -1,6 +1,6 @@
 # Good day! My name is Angelica Rivas
 
-I'm a Jr Data analysis
+I'm a Jr Data analyst
 
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on my thesis 'Obstetric violence in public health institutions in Mexico: a comparative analysis'. Proposed and implemented a survey analysis algorithm based on machine learning and networks.
